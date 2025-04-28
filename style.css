@@ -1,0 +1,54 @@
+<style>
+      #app {
+          width: 300px;
+      }
+
+      .display {
+          width: 228px;
+          padding: 10px;
+          color: #fff;
+          background: #333;
+          display: flex;
+          align-items: center;
+          justify-content: flex-end;
+          height: 40px;
+          font-size: 22px;
+      }
+
+      .row {
+          display: flex;
+          width: 100%;
+      }
+
+      .btn {
+          color: #fff;
+          width: 60px;
+          height: 60px;
+          font-size: 20px;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          border: 0.05rem solid #000;
+          cursor: pointer;
+      }
+
+      .btn:hover {
+          opacity: 0.8;
+      }
+
+      .btn-0 {
+          width: 122px;
+      }
+
+      .bg-gray-1 {
+          background-color: #4a5568;
+      }
+
+      .bg-gray-2 {
+          background-color: #a0aec0;
+      }
+
+      .bg-orange {
+          background-color: #ed8936;
+      }
+  </style>
